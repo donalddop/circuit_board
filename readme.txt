@@ -1,5 +1,8 @@
 Author: Donald Nikkessen
 
+The program is used to solve wiring schematics for circuit boards.
+The .txt files contain the boards, where matching numbers represent gates to be connected.
+
 The following external libraries are require to run the code:
  - numpy
  - openpyxl
